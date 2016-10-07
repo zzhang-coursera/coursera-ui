@@ -145,7 +145,7 @@ class ProgressBarWidget extends React.Component {
 
     return (
       <div className="rc-ProgressBarWidget bgcolor-black-g1">
-        <div className={progressClasses} style={cardStyles.progressStyle}></div>
+         <div className={progressClasses} style={cardStyles.progressStyle}></div>
       </div>
     );
   }
